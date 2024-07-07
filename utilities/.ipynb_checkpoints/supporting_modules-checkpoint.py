@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader, Dataset
-import tiktoken
 # dataloader
 class GPTDataset(Dataset):
     def __init__(self, text, tokenizer, max_length, stride):
@@ -23,7 +22,7 @@ class GPTDataset(Dataset):
 # creating dataloader function
 def create_dataloader(text, batch_size=64, max_length=256, stride=128, shuffle=True, drop_last=True):
     tokenizer = tiktoken.get_encoding('gpt2')
-    dataset = GPTDataset(text, tokenizer, max_length, stride)
+    dataset = GPTDatasetV1(text, tokenizer, max_length, stride)
     dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=shuffle, drop_last=drop_last)
     return dataloader
 # GPT Architecture
@@ -160,28 +159,4 @@ class TransformerBlock(nn.Module):
         
         return x
         
-        
-# Utility functions for calculating losses
-
-## Cross Entropy Loss
-def cross_entropy_batch_loss(input_batch, target_batch, model, device):
-    input_batch, target_batch = input_batch.to(device), target_batch.to(device)
-    logits = model(input_batch)
-    loss = torch.nn.functional.cross_entropy(logits.flatten(0, 1), target_batch.flatten())
-    return loss
-        
-## Function to compute the training and validation loss
-def loss_calculator(data_loader, model, loss_function, device, num_batches=None):
-    total_loss = 0.
-    if num_batches is None:
-        num_batches = len(data_loader) #A
-    else:
-        num_batches = min(num_batches, len(data_loader)) #B
-    for i, (input_batch, target_batch) in enumerate(data_loader):
-        if i < num_batches:
-            loss = loss_function(input_batch, target_batch, model, device)
-            total_loss += loss.item() #C
-        else:
-            break
-    return total_loss / num_batches
         
