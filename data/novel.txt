@@ -1,53 +1,4 @@
-The Project Gutenberg EBook of The English Novel, by George Saintsbury
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The English Novel
-
-Author: George Saintsbury
-
-Release Date: December 26, 2004 [EBook #14469]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE ENGLISH NOVEL ***
-
-
-
-
-Produced by Jonathan Ingram, Riikka Talonpoika and the PG Online
-Distributed Proofreading Team
-
-
-
-
-
-
-THE ENGLISH NOVEL
-
-BY
-
-GEORGE SAINTSBURY
-
-PROFESSOR OF ENGLISH LITERATURE IN THE
-UNIVERSITY OF EDINBURGH
-
-LONDON: J.M. DENT & SONS LTD.
-BEDFORD STREET, STRAND  1913
-NEW YORK: E.P. BUTTON & CO.
-
-
-
-
 PREFACE
-
-
 It is somewhat curious that there is, so far as I know, no complete
 handling in English of the subject of this volume, popular and important
 though that subject has been. Dunlop's _History of Fiction_, an
@@ -74,36 +25,6 @@ book has not been hurried, and that I have taken all the pains I could,
 by revision and addition as it proceeded, to make it a complete survey
 of the Novel, as it has come from the hands of all the more important
 novelists, not now alive, up to the end of the nineteenth century.
-
-GEORGE SAINTSBURY.
-
-_Christmas_, 1912.
-
-
-
-
-    CONTENTS
-
-    CHAP.
-
-       I. THE FOUNDATION IN ROMANCE
-      II. FROM LYLY TO SWIFT
-     III. THE FOUR WHEELS OF THE NOVEL WAIN
-      IV. THE MINOR AND LATER EIGHTEENTH-CENTURY NOVEL
-       V. SCOTT AND MISS AUSTEN
-      VI. THE SUCCESSORS--TO THACKERAY
-     VII. THE MID-VICTORIAN NOVEL
-    VIII. THE FICTION OF YESTERDAY--CONCLUSION
-
-          INDEX
-
-
-
-
-THE ENGLISH NOVEL
-
-
-
 
 CHAPTER I
 
@@ -8945,877 +8866,252 @@ Nature--to serve as rest and refreshment between those exactions of life
 which, though neither unjust nor unkind, are burdensome, it has no equal
 among all the kinds of Art itself.
 
+The Verdict
 
+I HAD always thought Jack Gisburn rather a cheap genius--though a good fellow enough--so it was no great surprise to me to hear that, in the height of his glory, he had dropped his painting, married a rich widow, and established himself in a villa on the Riviera. (Though I rather thought it would have been Rome or Florence.)
 
+"The height of his glory"--that was what the women called it. I can hear Mrs. Gideon Thwing--his last Chicago sitter--deploring his unaccountable abdication. "Of course it's going to send the value of my picture 'way up; but I don't think of that, Mr. Rickham--the loss to Arrt is all I think of." The word, on Mrs. Thwing's lips, multiplied its _rs_ as though they were reflected in an endless vista of mirrors. And it was not only the Mrs. Thwings who mourned. Had not the exquisite Hermia Croft, at the last Grafton Gallery show, stopped me before Gisburn's "Moon-dancers" to say, with tears in her eyes: "We shall not look upon its like again"?
 
-INDEX
-
-
-_Adam Bede_
-Adams, W.
-Addison
-_Adeline Mowbray_
-Aelfric
-_Agathos_
-Ainsworth, H.
-_Alton Locke_
-_Amadis_
-_Amelia_
-_Amis and Amillion_
-Amory, Thomas
-_Anabasis, The_
-Anglo-Saxon, Romance in
-_Anna_
-_Anna St. Ives_
-_Apollonius of Tyre_
-Apuleius
-Arblay, Madame d', _see_ Burney, F.
-_Arcadia, The_
-_Aretina_
-_Arthour and Merlin_
-Arthurian Legend, the;
-  its romantic concentration
-_Ask Mamma_
-_Ass, The Golden_
-_Atlantis, The New_
-Austen, Miss
-
-_Badman, Mr_.
-Bage, R.
-Balzac
-Banim
-_Barchester Towers_
-Barrett, E.S.
-_Barry Lyndon_
-"Barsetshire Novels," the
-_Battle of the Books, The_
-Beaconsfield, Lord, _see_ Disraeli, B.
-Beckford
-Behn, Afra
-_Belinda_
-Bennett, Mrs.
-_Bentivolio and Urania_
-_Beowulf_
-Bergerac, C. de
-Berington, S.
-Berkeley
-Berners, Lord
-_Bertrams, The_
-_Beryn, The Tale of_
-Besaut, Sir W.
-_Betsy Thoughtless_
-_Bevis of Hampton_
-Black, W.
-Blackmore, R.D.
-Blair
-Borrow, George
-Boyle, Roger, Lord Broghill and Earl of Orrery
-_Brambletye House_
-Brontë, Charlotte
-  Emily and Anne
-Brooke, H.
-Brunetičre, M.
-Brunton, Mrs.
-Bulwer, Sir E.B. Lytton (1st Lord Lytton)
-_Buncle, The life of John_
-Bunyan
-Burney, F.
-Byrne, Mrs.
-Byron
-
-_Caleb Williams_
-_Cambridge Freshman, The_
-_Camilla_
-_Canterbury Tales_ (the Misses Lee's)
-_Can You Forgive Her?_
-_Captain Singleton_
-_Castle of Otranto, The_
-_Catherine_
-_Catriona_
-_Caxtons, The_
-_Cecilia_
-Chamier, Captain
-_Charles O'Malley_
-"Charlotte Elizabeth"
-Chateaubriand, 152
-_Children of the Abbey, The_
-_Chrestien de Troyes_
-_Chronicles of Carlingford, The_
-_Chrysal_
-Circulating libraries, effort of
-_Clarissa_
-Clive, Mrs. A.
-_Cloister and the Hearth, The_
-Coleridge
-Collins, Wilkie
-_Colonel Jack_
-_Complaint of Deor, The_
-Congreve
-_Convent of Grey Penitents, The_
-Coventry, F.
-"Coverley Papers," the
-Craik, Mrs.
-_Cranford_
-_Cripps the Carrier_
-Crisp, "Daddy"
-Croker, Crofton
-Croly
-_Crotchet Castle_
-Crowe, Mrs.
-Crowne, John
-Croxall, Dr.
-Cumberland, R.
-_Cyropædia, The_
-
-Dante
-_David Simple_
-Defoe
-Dickens
-Diderot
-_Discipline_
-Disraeli, B.
-_Divina Commedia, The_
-Dumas
-Dunlop
-
-Edgeworth, Miss
-Ellis, G., _Early English Romances_
-_Emarč_
-_Emilia Wyndham_
-_Emma_
-_English Rogue, The_
-_Esmond_
-_Euphues_
-Eustathius
-Evans, Mary Ann ("George Eliot")
-_Evelina_
-
-_Fair Quaker of Dea
-_Ferdinand Count Fathom_
-Ferrier, Miss
-Fielding, H.
-Fielding, S.
-_Florence of Rome_
-_Florice and Blancheflour_
-_Fool of Quality, The_
-Ford, Emmanuel
-_Fortunes of Nigel, The_
-_Frank_
-_Frank Fairlegh_
-_Frank Mildmay_
-
-Galt
-_Gamekeeper at Home, The_
-Gaskell, Mrs.
-_Gawain and the Green Knight_
-Geoffrey of Monmouth
-"George Eliot," _see_ Evans, M.A.
-Gilpin
-Glascock, Capt.
-Godwin, W.
-Goldsmith
-Gore, Mrs.
-Graves, Rev. R.
-Gray
-_Great Hoggarty Diamond, The_
-Green, Sarah
-Grey, Mr. W.W.
-_Gryll Grange_
-_Guadentio di Lucca_
-_Gulliver's Travels_
-_Guy Livingstone_
-_Guy of Warwick_
-
-Hagiology, its effect on Romance
-Hamilton, Anthony
-Hardy, Mr.
-_Haunted and the Haunters, The_
-_Havelok the Dam_
-Haywood, Eliza
-Hazlitt
-Head, R.
-_Heir of Redclyffe, The_
-_Heliodorus_
-Henley, Mr. W.E.
-_Henrietta Temple_
-_Henry_
-_Hereward the Wake_
-_Hermsprong_
-Herodotus
-_Heroine, The_
-Holcroft, T.
-_Holy War, The_
-Hook, Theodore
-Hope
-_Horn, King_
-_Humphry Clinker_
-Hunt, Leigh
-_Hypatia_
-
-_Idalia_
-_Ida of Athena_
-_Iliad The_
-"Imitation" (the Greek=Fiction)
-Inchbald, Mrs.
-_Incognita_
-Ingelo, N.
-_Ipomydon_
-_Isle of Pines, The_
-_Italian, The_
-_It is Never too Late to Mend_
-_Ixion_
-
-_Jack Wilton_
-_Jacob Faithful_
-James, G.P.R.
-_Jane Eyre_
-Jefferies, R.
-_Jemmy and Jenny Jessamy_
-_John Runcle_
-_John Inglesand_
-Johnson, Dr.
-Johnstone, C.
-_Jonathan Wild_
-"Jorrocks," Mr.
-_Joseph Andrews_
-_Journey from This World to the Next, A_
-
-_Kate Coventry_
-Kingsley, C.
-Kingsley, H.
-_King's Own, The_
-Kirkman, F.
-
-"Lady Mary" (Wortley-Montagu)
-_Lady Susan_
-_Lancelot (of the Laik)_, the Scots
-_Last Chronicle of Barset, The_
-Lawrence, G.A.
-Layamon
-Lee, the Misses
-"L.E.L."
-Lennox, Mrs.
-_Leoline and Sydanis_
-Letter-form in novels
-Lever, C.
-Lewis, M.G.
-_Libertine, The_
-Livy
-Lockhart
-_London_
-Longus
-_Lorna Doone_
-Lucian
-_Lybius Disconus_
-Lydia
-Lyly
-Lytton, _see_ Bulwer
-
-Macaulay
-Macdonald, George
-Macfarlane, C.
-Mackenzie, Henry
-Mackenzie, Sir George
-Malory
-_Man as He Is_
-_Manley, Mrs._
-_Man of Feeling, The_
-_Mansfield Park_
-Map, W.
-_Marianne_ (Marivaux)
-_Marivaux_
-Marryat, Captain
-Marsh, Mrs.
-Martineau, Mrs.
-_Mary Barton_
-Maturin, C.R.
-_Melincourt_
-_Melmoth the Wanderer_
-Melville, Mr. L.
-_Memoirs of a Cavalier_
-Meredith, Mr. George
-_Merlin_
-Michelet
-_Mill on the Floss, The_
-_Misfortunes of Elphin, The_
-_Mr. Midshipman Easy_
-_Mr. Verdant Green_
-_Mrs. Veal_
-_Moll Flanders_
-_Monk, The_
-_Montelion_
-Moore, Dr. John
-Morgan, Lady
-Morier
-Morley of Blackburn, Lord
-Morris, W.
-_Morte d'Arthur_, the alliterative;
-  the metrical;
-  Malory's
-Mosse, Henrietta
-_Mount Henneth_
-_Mysteries of Udolpho, The_
-
-Nash, T.
-_Nature and Art_
-Neville, H.
-_Nightmare Abbey_
-_No Name_
-_North and South_
-_Northanger Abbey_
-_Novelist, The_
-_Novella_, the Italian, influence of
-
-_Oceana_
-_Odyssey, The_
-_Old English Baron, The_
-_Old Manor House, The_
-Oliphant, Mrs.
-Opie, Mrs.
-_Ordeal of Richard Feverel, The_
-_Ormond_
-_Ornatus and Artesia_
-_Oroonoko_
-"Ouida"
-Ovid
-
-Paget, F.
-_Palace of Pleasure_, Painter's
-Paltock, R.
-_Pamela_
-_Pandion and Amphigeneia_
-Paris, M. Gaston
-_Parismus and Parismenus_
-_Parthenissa_
-_Paul Ferroll_
-Peacock, T.L.
-_Peep at Our Ancestors_
-_Pendennis_
-_Peregrine Pickle_
-_Persuasion_
-_Peter Simple_
-_Peter Wilkins_
-Petronius
-_Phantasies_
-_Pharonnida_
-_Pickwick Papers, The_
-_Pilgrim's Progress, The_
-Plato
-Poe, Edgar
-_Polite Conversation_ (Swift's)
-_Pompey the Little_
-Porter, Miss
-_Pride and Prejudice_
-_Proud King, The_
-Publication, system of
-
-_Queenhoo Hall_
-_Quixote, The Female_
-_Quixote, The Spiritual_
-
-Rabelais
-Radcliffe, Mrs.
-Raleigh, Professor Sir Walter
-_Rasselas_
-Reade, C.
-_Recess, The_
-Reeve, Clara
-Rice, James
-_Richard Coeur de Lion_
-Richardson
-Ritson
-_Robinson Crusoe_
-Robinson, Emma (?)
-Roche, R.M.
-_Roderich Random_
-Romance;
-  its connection with the "Saint's Life";
-  not completely separable from novel;
-  heroic
-_Romance Readers and Romance Writers_
-_Romola_
-"Rosa Matilda"
-_Roxana_
-_Ruin, The_
-_Ruth_
-
-_St. Irvyne_
-_St. Leon_
-_St. Ronan's Well_
-_Sayings and Doings_
-"S.G.," _see_ Green, Sarah
-Scott, Michael
-Scott, Sir W.
-_Sense and Sensibility_
-_Sentimental Journey, A_
-_Seven Wise Masters, The_
-Sewell, Miss
-_Shabby Genteel Story, A_
-_Shadow of the Cross, The_
-Shadwell, Charles
-Shebbeare
-Shelley
-Sheridan, Frances
-Sherwood, Mrs.
-_Shirley_
-_Shortest Way with the Dissenters_
-_Simple Story, A_
-_Sir Amadas_
-_Sir Charles Grandison_
-_Sir Eglamour_
-_Sir Eger, Sir Grame, and Sir Graysteel_
-_Sir John Chiverton_
-_Sir Isumhras_
-_Sir Lancelot Greaves_
-_Sir Launfal_
-_Sir Orfeo_
-_Sir Triamond_
-_Sketches by Boz_
-Smart, Capt. H.
-Smedley, Frank
-Smith, Charlotte
-Smith, Horace
-Smollett
-Socrates
-_Spiritual Quixote, The_
-_Squire of Low Degree, The_
-Staël, Mme. de
-Steele
-Stendhal
-Sterne
-Stevenson, R.L.
-_Strange Story, A_
-Stuart, Lady L.
-Surtees, R.
-Swift
-_Sydney Biddulph_
-
-_Tale of a Tub, A_
-_Ten Thousand a Year_
-Tennyson
-Terror-Novel, the
-Thackeray
-_Thaddeus of Warsaw_
-Thorns
-Tolstoi, Count
-_Tom and Jerry_
-_Tom Brown's Schooldays_
-_Tom Cringle's Log_
-_Tom Jones_
-Tourguenief
-"Tractarian" Novel, the
-_Treasure Island_
-_Tristram Shandy_
-Tristram story, the
-Trollope, Anthony
-Trollope, Mrs.
-_Two Years Ago_
-
-_Unfortunate Traveller, The_
-_Urania_
-_Utopia_
-
-_Vanity Fair_
-_Vathek_
-_Venetia_
-_Vicar of Wake field, The_
-Virgil
-_Vision of St. Paul, The_
-_Voyage Round the World_
-
-Wace
-Walpole, H.
-_Wanderer, The_
-_Warden, The_
-Ward's _Catalogue of Romances_
-Warren, S.
-_Water Babies, The_
-_Watsons, The_
-_Waverley_
-Weber
-_Well at the World's End_
-_Westward Ho!_
-Whyte-Melville, G.J.
-_Wild Irish Girl, The_
-Wilkinson, Sarah
-_William of Palerne_
-Wortley-Montagu, Lady M., _see_ "Lady Mary"
-Wroth, Lady Mary
-_Wuthering Heights_
-
-Xenophon
-
-_Yeast_
-Yonge, Miss
-_Ywain and Gawain_
-
-_Zastrozzi_
-Zeluco
-
-
-
-
-
-End of the Project Gutenberg EBook of The English Novel, by George Saintsbury
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE ENGLISH NOVEL ***
-
-***** This file should be named 14469-8.txt or 14469-8.zip *****
-This and all associated files of various formats will be found in:
-        https://www.gutenberg.org/1/4/4/6/14469/
-
-Produced by Jonathan Ingram, Riikka Talonpoika and the PG Online
-Distributed Proofreading Team
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-https://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at https://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-https://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at https://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit https://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: https://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     https://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+Well!--even through the prism of Hermia's tears I felt able to face the fact with equanimity. Poor Jack Gisburn! The women had made him--it was fitting that they should mourn him. Among his own sex fewer regrets were heard, and in his own trade hardly a murmur. Professional jealousy? Perhaps. If it were, the honour of the craft was vindicated by little Claude Nutley, who, in all good faith, brought out in the Burlington a very handsome "obituary" on Jack--one of those showy articles stocked with random technicalities that I have heard (I won't say by whom) compared to Gisburn's painting. And so--his resolve being apparently irrevocable--the discussion gradually died out, and, as Mrs. Thwing had predicted, the price of "Gisburns" went up.
+
+It was not till three years later that, in the course of a few weeks' idling on the Riviera, it suddenly occurred to me to wonder why Gisburn had given up his painting. On reflection, it really was a tempting problem. To accuse his wife would have been too easy--his fair sitters had been denied the solace of saying that Mrs. Gisburn had "dragged him down." For Mrs. Gisburn--as such--had not existed till nearly a year after Jack's resolve had been taken. It might be that he had married her--since he liked his ease--because he didn't want to go on painting; but it would have been hard to prove that he had given up his painting because he had married her.
+
+Of course, if she had not dragged him down, she had equally, as Miss Croft contended, failed to "lift him up"--she had not led him back to the easel. To put the brush into his hand again--what a vocation for a wife! But Mrs. Gisburn appeared to have disdained it--and I felt it might be interesting to find out why.
+
+The desultory life of the Riviera lends itself to such purely academic speculations; and having, on my way to Monte Carlo, caught a glimpse of Jack's balustraded terraces between the pines, I had myself borne thither the next day.
+
+I found the couple at tea beneath their palm-trees; and Mrs. Gisburn's welcome was so genial that, in the ensuing weeks, I claimed it frequently. It was not that my hostess was "interesting": on that point I could have given Miss Croft the fullest reassurance. It was just because she was _not_ interesting--if I may be pardoned the bull--that I found her so. For Jack, all his life, had been surrounded by interesting women: they had fostered his art, it had been reared in the hot-house of their adulation. And it was therefore instructive to note what effect the "deadening atmosphere of mediocrity" (I quote Miss Croft) was having on him.
+
+I have mentioned that Mrs. Gisburn was rich; and it was immediately perceptible that her husband was extracting from this circumstance a delicate but substantial satisfaction. It is, as a rule, the people who scorn money who get most out of it; and Jack's elegant disdain of his wife's big balance enabled him, with an appearance of perfect good-breeding, to transmute it into objects of art and luxury. To the latter, I must add, he remained relatively indifferent; but he was buying Renaissance bronzes and eighteenth-century pictures with a discrimination that bespoke the amplest resources.
+
+"Money's only excuse is to put beauty into circulation," was one of the axioms he laid down across the Sevres and silver of an exquisitely appointed luncheon-table, when, on a later day, I had again run over from Monte Carlo; and Mrs. Gisburn, beaming on him, added for my enlightenment: "Jack is so morbidly sensitive to every form of beauty."
+
+Poor Jack! It had always been his fate to have women say such things of him: the fact should be set down in extenuation. What struck me now was that, for the first time, he resented the tone. I had seen him, so often, basking under similar tributes--was it the conjugal note that robbed them of their savour? No--for, oddly enough, it became apparent that he was fond of Mrs. Gisburn--fond enough not to see her absurdity. It was his own absurdity he seemed to be wincing under--his own attitude as an object for garlands and incense.
+
+"My dear, since I've chucked painting people don't say that stuff about me--they say it about Victor Grindle," was his only protest, as he rose from the table and strolled out onto the sunlit terrace.
+
+I glanced after him, struck by his last word. Victor Grindle was, in fact, becoming the man of the moment--as Jack himself, one might put it, had been the man of the hour. The younger artist was said to have formed himself at my friend's feet, and I wondered if a tinge of jealousy underlay the latter's mysterious abdication. But no--for it was not till after that event that the _rose Dubarry_ drawing-rooms had begun to display their "Grindles."
+
+I turned to Mrs. Gisburn, who had lingered to give a lump of sugar to her spaniel in the dining-room.
+
+"Why _has_ he chucked painting?" I asked abruptly.
+
+She raised her eyebrows with a hint of good-humoured surprise.
+
+"Oh, he doesn't _have_ to now, you know; and I want him to enjoy himself," she said quite simply.
+
+I looked about the spacious white-panelled room, with its _famille-verte_ vases repeating the tones of the pale damask curtains, and its eighteenth-century pastels in delicate faded frames.
+
+"Has he chucked his pictures too? I haven't seen a single one in the house."
+
+A slight shade of constraint crossed Mrs. Gisburn's open countenance. "It's his ridiculous modesty, you know. He says they're not fit to have about; he's sent them all away except one--my portrait--and that I have to keep upstairs."
+
+His ridiculous modesty--Jack's modesty about his pictures? My curiosity was growing like the bean-stalk. I said persuasively to my hostess: "I must really see your portrait, you know."
+
+She glanced out almost timorously at the terrace where her husband, lounging in a hooded chair, had lit a cigar and drawn the Russian deerhound's head between his knees.
+
+"Well, come while he's not looking," she said, with a laugh that tried to hide her nervousness; and I followed her between the marble Emperors of the hall, and up the wide stairs with terra-cotta nymphs poised among flowers at each landing.
+
+In the dimmest corner of her boudoir, amid a profusion of delicate and distinguished objects, hung one of the familiar oval canvases, in the inevitable garlanded frame. The mere outline of the frame called up all Gisburn's past!
+
+Mrs. Gisburn drew back the window-curtains, moved aside a _jardiniere_ full of pink azaleas, pushed an arm-chair away, and said: "If you stand here you can just manage to see it. I had it over the mantel-piece, but he wouldn't let it stay."
+
+Yes--I could just manage to see it--the first portrait of Jack's I had ever had to strain my eyes over! Usually they had the place of honour--say the central panel in a pale yellow or _rose Dubarry_ drawing-room, or a monumental easel placed so that it took the light through curtains of old Venetian point. The more modest place became the picture better; yet, as my eyes grew accustomed to the half-light, all the characteristic qualities came out--all the hesitations disguised as audacities, the tricks of prestidigitation by which, with such consummate skill, he managed to divert attention from the real business of the picture to some pretty irrelevance of detail. Mrs. Gisburn, presenting a neutral surface to work on--forming, as it were, so inevitably the background of her own picture--had lent herself in an unusual degree to the display of this false virtuosity. The picture was one of Jack's "strongest," as his admirers would have put it--it represented, on his part, a swelling of muscles, a congesting of veins, a balancing, straddling and straining, that reminded one of the circus-clown's ironic efforts to lift a feather. It met, in short, at every point the demand of lovely woman to be painted "strongly" because she was tired of being painted "sweetly"--and yet not to lose an atom of the sweetness.
+
+"It's the last he painted, you know," Mrs. Gisburn said with pardonable pride. "The last but one," she corrected herself--"but the other doesn't count, because he destroyed it."
+
+"Destroyed it?" I was about to follow up this clue when I heard a footstep and saw Jack himself on the threshold.
+
+As he stood there, his hands in the pockets of his velveteen coat, the thin brown waves of hair pushed back from his white forehead, his lean sunburnt cheeks furrowed by a smile that lifted the tips of a self-confident moustache, I felt to what a degree he had the same quality as his pictures--the quality of looking cleverer than he was.
+
+His wife glanced at him deprecatingly, but his eyes travelled past her to the portrait.
+
+"Mr. Rickham wanted to see it," she began, as if excusing herself. He shrugged his shoulders, still smiling.
+
+"Oh, Rickham found me out long ago," he said lightly; then, passing his arm through mine: "Come and see the rest of the house."
+
+He showed it to me with a kind of naive suburban pride: the bath-rooms, the speaking-tubes, the dress-closets, the trouser-presses--all the complex simplifications of the millionaire's domestic economy. And whenever my wonder paid the expected tribute he said, throwing out his chest a little: "Yes, I really don't see how people manage to live without that."
+
+Well--it was just the end one might have foreseen for him. Only he was, through it all and in spite of it all--as he had been through, and in spite of, his pictures--so handsome, so charming, so disarming, that one longed to cry out: "Be dissatisfied with your leisure!" as once one had longed to say: "Be dissatisfied with your work!"
+
+But, with the cry on my lips, my diagnosis suffered an unexpected check.
+
+"This is my own lair," he said, leading me into a dark plain room at the end of the florid vista. It was square and brown and leathery: no "effects"; no bric-a-brac, none of the air of posing for reproduction in a picture weekly--above all, no least sign of ever having been used as a studio.
+
+The fact brought home to me the absolute finality of Jack's break with his old life.
+
+"Don't you ever dabble with paint any more?" I asked, still looking about for a trace of such activity.
+
+"Never," he said briefly.
+
+"Or water-colour--or etching?"
+
+His confident eyes grew dim, and his cheeks paled a little under their handsome sunburn.
+
+"Never think of it, my dear fellow--any more than if I'd never touched a brush."
+
+And his tone told me in a flash that he never thought of anything else.
+
+I moved away, instinctively embarrassed by my unexpected discovery; and as I turned, my eye fell on a small picture above the mantel-piece--the only object breaking the plain oak panelling of the room.
+
+"Oh, by Jove!" I said.
+
+It was a sketch of a donkey--an old tired donkey, standing in the rain under a wall.
+
+"By Jove--a Stroud!" I cried.
+
+He was silent; but I felt him close behind me, breathing a little quickly.
+
+"What a wonder! Made with a dozen lines--but on everlasting foundations. You lucky chap, where did you get it?"
+
+He answered slowly: "Mrs. Stroud gave it to me."
+
+"Ah--I didn't know you even knew the Strouds. He was such an inflexible hermit."
+
+"I didn't--till after. . . . She sent for me to paint him when he was dead."
+
+"When he was dead? You?"
+
+I must have let a little too much amazement escape through my surprise, for he answered with a deprecating laugh: "Yes--she's an awful simpleton, you know, Mrs. Stroud. Her only idea was to have him done by a fashionable painter--ah, poor Stroud! She thought it the surest way of proclaiming his greatness--of forcing it on a purblind public. And at the moment I was _the_ fashionable painter."
+
+"Ah, poor Stroud--as you say. Was _that_ his history?"
+
+"That was his history. She believed in him, gloried in him--or thought she did. But she couldn't bear not to have all the drawing-rooms with her. She couldn't bear the fact that, on varnishing days, one could always get near enough to see his pictures. Poor woman! She's just a fragment groping for other fragments. Stroud is the only whole I ever knew."
+
+"You ever knew? But you just said--"
+
+Gisburn had a curious smile in his eyes.
+
+"Oh, I knew him, and he knew me--only it happened after he was dead."
+
+I dropped my voice instinctively. "When she sent for you?"
+
+"Yes--quite insensible to the irony. She wanted him vindicated--and by me!"
+
+He laughed again, and threw back his head to look up at the sketch of the donkey. "There were days when I couldn't look at that thing--couldn't face it. But I forced myself to put it here; and now it's cured me--cured me. That's the reason why I don't dabble any more, my dear Rickham; or rather Stroud himself is the reason."
+
+For the first time my idle curiosity about my companion turned into a serious desire to understand him better.
+
+"I wish you'd tell me how it happened," I said.
+
+He stood looking up at the sketch, and twirling between his fingers a cigarette he had forgotten to light. Suddenly he turned toward me.
+
+"I'd rather like to tell you--because I've always suspected you of loathing my work."
+
+I made a deprecating gesture, which he negatived with a good-humoured shrug.
+
+"Oh, I didn't care a straw when I believed in myself--and now it's an added tie between us!"
+
+He laughed slightly, without bitterness, and pushed one of the deep arm-chairs forward. "There: make yourself comfortable--and here are the cigars you like."
+
+He placed them at my elbow and continued to wander up and down the room, stopping now and then beneath the picture.
+
+"How it happened? I can tell you in five minutes--and it didn't take much longer to happen. . . . I can remember now how surprised and pleased I was when I got Mrs. Stroud's note. Of course, deep down, I had always _felt_ there was no one like him--only I had gone with the stream, echoed the usual platitudes about him, till I half got to think he was a failure, one of the kind that are left behind. By Jove, and he _was_ left behind--because he had come to stay! The rest of us had to let ourselves be swept along or go under, but he was high above the current--on everlasting foundations, as you say.
+
+"Well, I went off to the house in my most egregious mood--rather moved, Lord forgive me, at the pathos of poor Stroud's career of failure being crowned by the glory of my painting him! Of course I meant to do the picture for nothing--I told Mrs. Stroud so when she began to stammer something about her poverty. I remember getting off a prodigious phrase about the honour being _mine_--oh, I was princely, my dear Rickham! I was posing to myself like one of my own sitters.
+
+"Then I was taken up and left alone with him. I had sent all my traps in advance, and I had only to set up the easel and get to work. He had been dead only twenty-four hours, and he died suddenly, of heart disease, so that there had been no preliminary work of destruction--his face was clear and untouched. I had met him once or twice, years before, and thought him insignificant and dingy. Now I saw that he was superb.
+
+"I was glad at first, with a merely aesthetic satisfaction: glad to have my hand on such a 'subject.' Then his strange life-likeness began to affect me queerly--as I blocked the head in I felt as if he were watching me do it. The sensation was followed by the thought: if he _were_ watching me, what would he say to my way of working? My strokes began to go a little wild--I felt nervous and uncertain.
+
+"Once, when I looked up, I seemed to see a smile behind his close grayish beard--as if he had the secret, and were amusing himself by holding it back from me. That exasperated me still more. The secret? Why, I had a secret worth twenty of his! I dashed at the canvas furiously, and tried some of my bravura tricks. But they failed me, they crumbled. I saw that he wasn't watching the showy bits--I couldn't distract his attention; he just kept his eyes on the hard passages between. Those were the ones I had always shirked, or covered up with some lying paint. And how he saw through my lies!
+
+"I looked up again, and caught sight of that sketch of the donkey hanging on the wall near his bed. His wife told me afterward it was the last thing he had done--just a note taken with a shaking hand, when he was down in Devonshire recovering from a previous heart attack. Just a note! But it tells his whole history. There are years of patient scornful persistence in every line. A man who had swum with the current could never have learned that mighty up-stream stroke. . . .
+
+"I turned back to my work, and went on groping and muddling; then I looked at the donkey again. I saw that, when Stroud laid in the first stroke, he knew just what the end would be. He had possessed his subject, absorbed it, recreated it. When had I done that with any of my things? They hadn't been born of me--I had just adopted them. . . .
+
+"Hang it, Rickham, with that face watching me I couldn't do another stroke. The plain truth was, I didn't know where to put it--_I had never known_. Only, with my sitters and my public, a showy splash of colour covered up the fact--I just threw paint into their faces. . . . Well, paint was the one medium those dead eyes could see through--see straight to the tottering foundations underneath. Don't you know how, in talking a foreign language, even fluently, one says half the time not what one wants to but what one can? Well--that was the way I painted; and as he lay there and watched me, the thing they called my 'technique' collapsed like a house of cards. He didn't sneer, you understand, poor Stroud--he just lay there quietly watching, and on his lips, through the gray beard, I seemed to hear the question: 'Are you sure you know where you're coming out?'
+
+"If I could have painted that face, with that question on it, I should have done a great thing. The next greatest thing was to see that I couldn't--and that grace was given me. But, oh, at that minute, Rickham, was there anything on earth I wouldn't have given to have Stroud alive before me, and to hear him say: 'It's not too late--I'll show you how'?
+
+"It _was_ too late--it would have been, even if he'd been alive. I packed up my traps, and went down and told Mrs. Stroud. Of course I didn't tell her _that_--it would have been Greek to her. I simply said I couldn't paint him, that I was too moved. She rather liked the idea--she's so romantic! It was that that made her give me the donkey. But she was terribly upset at not getting the portrait--she did so want him 'done' by some one showy! At first I was afraid she wouldn't let me off--and at my wits' end I suggested Grindle. Yes, it was I who started Grindle: I told Mrs. Stroud he was the 'coming' man, and she told somebody else, and so it got to be true. . . . And he painted Stroud without wincing; and she hung the picture among her husband's things. . . ."
+
+He flung himself down in the arm-chair near mine, laid back his head, and clasping his arms beneath it, looked up at the picture above the chimney-piece.
+
+"I like to fancy that Stroud himself would have given it to me, if he'd been able to say what he thought that day."
+
+And, in answer to a question I put half-mechanically--"Begin again?" he flashed out. "When the one thing that brings me anywhere near him is that I knew enough to leave off?"
+
+He stood up and laid his hand on my shoulder with a laugh. "Only the irony of it is that I _am_ still painting--since Grindle's doing it for me! The Strouds stand alone, and happen once--but there's no exterminating our kind of art."
+
+
+
+
+
+This work is in the public domain in the United States because it was published before January 1, 1929.
+
+
+
+* * *
+
+
+
+This work may be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.
+
+
+
+
+
+About this digital edition
+
+
+This e-book comes from the online library Wikisource. This multilingual digital library, built by volunteers, is committed to developing a free accessible collection of publications of every kind: novels, poems, magazines, letters...
+
+We distribute our books for free, starting from works not copyrighted or published under a free license. You are free to use our e-books for any purpose (including commercial exploitation), under the terms of the Creative Commons Attribution-ShareAlike 4.0 Unported license or, at your choice, those of the GNU FDL.
+
+Wikisource is constantly looking for new members. During the transcription and proofreading of this book, it's possible that we made some errors. You can report them at this page.
+
+The following users contributed to this book:
+
+Zigzig20s~enwikisource
+
+Zhaladshar
+
+Pathosbot
+
+AdamBMorgan
+
+Jarekt
+
+Rocket000
+
+Dbenbenn
+
+Zscout370
+
+Jacobolus
+
+Indolences
+
+Technion
+
+Dha
+
+Abigor
+
+Reisio
+
+Blurpeace
+
+Dschwen
+
+Steinsplitter
+
+Boris23
+
+KABALINI
+
+Bromskloss
+
+Tene~commonswiki
+
+AzaToth
+
+Bender235
+
+PatríciaR
+
+
+
+
+
